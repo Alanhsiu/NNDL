@@ -1,0 +1,4 @@
+# Cython build artifacts (rebuilt by students via setup.py)
+im2col_cython.c
+*.so
+build/
